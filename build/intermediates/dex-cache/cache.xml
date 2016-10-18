@@ -2,76 +2,67 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_9c0253f6cdb85a41f862bd87b1e56251de954397.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0f4f1b2dcc2c448bfa7c6c746994c90749930017.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_b7d043d5abb331380b42a73b1b6d34d2a3ad517a.jar" />
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_b7d043d5abb331380b42a73b1b6d34d2a3ad517a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_c08d6b3f0a9053f40f67ea5305fdbf3a85358b6d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_4906c162b293673667525462645262e848a79f4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_dd3c7e5eaabe5ea3ea5bc8f967408952eb2f7a4b.jar" />
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_dd3c7e5eaabe5ea3ea5bc8f967408952eb2f7a4b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c08d6b3f0a9053f40f67ea5305fdbf3a85358b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9bd40874ce5d62995cf631fa1d39f1bddf5d687d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_9c0253f6cdb85a41f862bd87b1e56251de954397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_e78f7a75443d95325bce0c4971a0381638d6a9e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_53deb5ec09a959eaf3f03288b78c3ff5aab21e5e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_0c3d52d7b047f5c01c82a78c7c5847b70f4e1e7e.jar" />
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_53deb5ec09a959eaf3f03288b78c3ff5aab21e5e/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -102,15 +93,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e981ec1504008f370423790dd54be6eb5d451c9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -119,13 +101,22 @@
         <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_58071e1351466a3c5fc17df710250871f2d68657.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5fcf414d55be43935d4eadb53a468fbdd99e780b.jar" />
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_9b511770724e31ee106b3e6e588a563198502d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c2701bbf0ffe3a99e25042ab9b68dec00689244c/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -137,22 +128,13 @@
         <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_993067bfd011e0b73795f4ca2ef49c59dc926fd3.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c2701bbf0ffe3a99e25042ab9b68dec00689244c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0056532b77c00768cc5ecc75b48020c507ee1b28.jar" />
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5fcf414d55be43935d4eadb53a468fbdd99e780b/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -173,6 +155,87 @@
         <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_4e6367e2ab8c8b332fe64277f73237e32d06a52e.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_0c3d52d7b047f5c01c82a78c7c5847b70f4e1e7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b0bc51ad101ee3c6c872de8179beba4d61af0da3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b4732d68ec276dfef22c08be449cf678c2be984">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_787f6f63852fe82228f9866ed472245ce55c1c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_bd5f884813e106fcf5569200a14b444859502fd6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_396e8e5c2f6b529d3c7ba88b7492d6982718633c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0f4f1b2dcc2c448bfa7c6c746994c90749930017.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb08d76980560b65f52b459fba1ff8e0ec61e7c4">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a60353b6bde2a511f83fc3f4c1cbd9a9fa622083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e981ec1504008f370423790dd54be6eb5d451c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0056532b77c00768cc5ecc75b48020c507ee1b28.jar" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/drewcarlson1123/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="false"
@@ -191,31 +254,31 @@
         <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_54b880cb4c3ce449c2288b116b66e3e219b86758.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_396e8e5c2f6b529d3c7ba88b7492d6982718633c.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5876268206c9228b6ab01d81e0939d18217dc9ed/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9bd40874ce5d62995cf631fa1d39f1bddf5d687d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_bd5f884813e106fcf5569200a14b444859502fd6.jar" />
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_4906c162b293673667525462645262e848a79f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f27f4bece2b2f652b4e27ca44af5009ac9e89367/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -228,24 +291,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_9c6f0160b421a5176c29378dc61b0e36f41ef528.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f27f4bece2b2f652b4e27ca44af5009ac9e89367.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -254,13 +299,13 @@
         <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/CriminalIntent/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba86a12d4f0203d6bf4ccf2bd28c9402db0b95a6.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5876268206c9228b6ab01d81e0939d18217dc9ed.jar" />
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/drewcarlson1123/AndroidStudioProjects/hw03-adding-another-dialog-drew112358/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_9c6f0160b421a5176c29378dc61b0e36f41ef528/classes.dex" />
     </item>
     <item
         is-multidex="false"

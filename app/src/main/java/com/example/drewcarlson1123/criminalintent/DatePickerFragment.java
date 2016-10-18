@@ -12,6 +12,7 @@ import android.support.v7.widget.LinearLayoutCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.DatePicker;
+import android.widget.TimePicker;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -28,6 +29,7 @@ public class DatePickerFragment extends DialogFragment {
     private static final String ARG_DATE = "date";
 
     private DatePicker mDatePicker;
+    private TimePicker mTimePicker;
 
     public static DatePickerFragment newInstance(Date date) {
         Bundle args = new Bundle();
@@ -52,6 +54,7 @@ public class DatePickerFragment extends DialogFragment {
                 .inflate(R.layout.dialog_date, null);
 
         mDatePicker = (DatePicker) v.findViewById(R.id.dialog_date_date_picker);
+        mTimePicker = (TimePicker) v.findViewById(R.id.dialog_date_time_picker);
         mDatePicker.init(year, month, day, null);
 
         return new AlertDialog.Builder(getActivity())
@@ -64,7 +67,9 @@ public class DatePickerFragment extends DialogFragment {
                                 int year = mDatePicker.getYear();
                                 int month = mDatePicker.getMonth();
                                 int day = mDatePicker.getDayOfMonth();
-                                Date date = new GregorianCalendar(year, month, day).getTime();
+                                int hour = mTimePicker.getHour();
+                                int minute = mTimePicker.getMinute();
+                                Date date = new GregorianCalendar(year, month, day, hour, minute).getTime();
                                 sendResult(Activity.RESULT_OK, date);
                             }
                         })
