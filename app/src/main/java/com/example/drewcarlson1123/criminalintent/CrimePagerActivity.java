@@ -61,4 +61,8 @@ public class CrimePagerActivity extends FragmentActivity {
             }
         }
     }
+
+    public void setOrientation(int requestedOrientation) {
+        this.setRequestedOrientation(requestedOrientation);
+    }
 }
